@@ -7,7 +7,7 @@ Take a look on [WebGL live demo](https://cdn.rawgit.com/joaokucera/unity-random-
 
 ##### How to improve it?
 
-Create a fork of [unity-asteroids](https://github.com/joaokucera/unity-random-maze/fork). 
+Create a fork of [unity-random-maze](https://github.com/joaokucera/unity-random-maze/fork). 
 
 Did you change it? [submit a pull request](https://github.com/joaokucera/unity-random-maze/pull/new/master).
 
